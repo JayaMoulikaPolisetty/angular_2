@@ -1,0 +1,42 @@
+[
+	{
+		"id":1,
+		"name":"Gadwal",
+		"description":"Gadwal sari is a handcrafted woven sari style in Gadwal of Mahbubnagar district in the Indian state of Telangana.",
+		"price": 100,
+		"images":"gadwal.jpg"
+		
+
+	},
+	{
+		"id":2,
+		"name":"Chanderi",
+		"description":"Chanderi sari is a traditional sari made in Chanderi, Madhya Pradesh, India. ",
+		"price": 200,
+		"images":"chanderi.jpg"
+			
+	},
+	{
+		"id":3,
+		"name":"Mysore",
+		"description":"Karnataka produces 9,000 metric tons of mulberry silk of a total of 14,000 metric tons produced in the country, thus contributing to nearly 70% of the country's total mulberry silk. In Karnataka, silk is mainly grown in the Mysore district.",
+		"price": 250,
+		"images":"mysore.jpg"
+		
+	},
+	{
+		"id":4,
+		"name":"Balarampuram",
+		"description":"Balaramapuram is a small town in the Thiruvananthapuram district of Kerala, India. Balaramapuram is famous as the centre for the production of traditional varieties of handloom textiles meant for the contemporary cloth wearing style of Kerala. Its unique craftsmanship makes it an ideal heirloom..",
+		"price": 325,
+		"images":"balarampuram.jpg"
+	},
+	{
+		"id":5,
+		"name":"Bandhani",
+		"description":" Bandhani is a type of tie-dye textile decorated primarily by plucking the cloth with the fingernails into many tiny bindings that form a figurative design. The term bandhani is derived from the Sanskrit word banda . Today most Bandhini making centers are situatied in Gujarat, Rajasthan, Sindh, Punjab region[3] and in Tamil Nadu where it's known as Sungudi.[4] [5] Earliest evidence of Bandhani dates back to Indus Valley Civilization where dyeing was done as early as 4000 B.C. The earliest example of the most pervasive type of Bandhani dots can be seen in the 6th century paintings depicting the life of Buddha found on the wall of Cave 1 at Ajanta. [6] Bandhani is also known as Bandhej, Bandhni, Piliya, and Chungidi in Tamil as per the regional delicate. Leheria or leheriya derives from the word lahar, meaning wave is also another unique form of tie dye technique used in Rajasthan. Other tying techniques include Mothra, Ekdali and Shikari depending on the manner in which the cloth is tied. The final products are known with various names like Khombi, Ghar Chola, Patori and also Chandrokhani etc.",
+		"price": 350,
+		"images":"Bandhani.jpg"
+		
+	}
+]
